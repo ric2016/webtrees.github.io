@@ -79,7 +79,7 @@ This module creates an additional tab in the Individual view which lists the mem
 
 ----------
 
-### Extended Relationships - by ric2016 - `1.7` - [website](https://github.com/ric2016/extended_relationships) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships) - [demo](https://cissee.de/webtrees)
+### Extended Relationships - by ric2016 - `1.7` - [website](https://github.com/ric2016/extended_relationships) -  `2.1`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships) - [demo](https://cissee.de/webtrees)
 
 This module provides an extended “Relationships” chart. It also displays additional relationship
 information via the extended “Families” tab, and the extended “Facts and Events” tab.
@@ -159,7 +159,7 @@ Provides historical facts (in German language) - Wars and Battles Worldwide (sin
 
 ----------
 
-### Gov4Webtrees - by ric2016 - `1.7` - [website](https://github.com/ric2016/gov4webtrees) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees) - [demo](https://cissee.de/gov4webtreesDemo)
+### Gov4Webtrees - by ric2016 - `1.7` - [website](https://github.com/ric2016/gov4webtrees) -  `2.1`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_gov4webtrees) - [demo](https://cissee.de/gov4webtreesDemo)
 
 It enhances places with historical and current [GOV](http://gov.genealogy.net) data,
 creating a place hierarchy with administrative levels from the date of the respective event.
@@ -222,7 +222,7 @@ Add pages of information, with links from the main menu.
 
 ----------
 
-### Places and Pedigree Map - by ric2016 - `2.0` - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_places_and_pedigree_map)
+### Places and Pedigree Map - by ric2016 - `2.1` - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_places_and_pedigree_map)
 
 This module provides replacements for the original “Places” and “Pedigree map” modules,
 using location data from GEDCOM, as well as location data provided by other modules.
@@ -249,7 +249,7 @@ This module provides a simple way to add a SSO auto login for webtrees in combin
 
 ----------
 
-### Shared Places - by ric2016 - `1.7` - [website](https://github.com/ric2016/shared_places) -  `2.0`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_shared_places)
+### Shared Places - by ric2016 - `1.7` - [website](https://github.com/ric2016/shared_places) -  `2.1`  - [website](https://github.com/vesta-webtrees-2-custom-modules/vesta_shared_places)
 
 This module supports shared places as level 0 GEDCOM objects, on the basis of the
 [GEDCOM-L](https://genealogy.net/GEDCOM/) addendum to the
